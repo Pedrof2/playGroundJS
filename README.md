@@ -27,3 +27,6 @@ Fundamentos de Javascript Assíncrono (Curso):
 
 -> Consumindo Api's:
 -> Api's e fetch.
+
+Cerificados:
+[Certificados.pdf](https://github.com/user-attachments/files/19933007/Certificados.pdf)
