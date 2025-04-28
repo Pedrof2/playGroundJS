@@ -47,12 +47,8 @@ console.log('soma2 (arrowfunction) ->', soma2)
 //retornando todos os numeros pares de um array utilizando filter
 const nums4 = [2, 3, 4, 5]
 
-const numerosPares = nums4.filter((item) => {
-    if (item % 2 === 0) {
-        return item
-    }
-})
-
+const numerosPares = nums4.filter((item) => item % 2 === 0 )
+        
 console.log('filtrando numeros pares ->', numerosPares)
 //Criando uma lista de preços
 
