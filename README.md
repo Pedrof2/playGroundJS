@@ -2,7 +2,7 @@ Cursos Sobre JavaScript Realizados na Plataforma dio
 
 Promovidos pela @stebsnusch
 
-Dominando Funções em Java Script (Cuso):
+Dominando Funções em Java Script (Curso):
 
 Tipos de Funções:
 
